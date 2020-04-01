@@ -1,0 +1,9 @@
+Express é um micro-framework que ajuda a lidar com rotas e views;
+
+Rotas endeeços que o User vai visitar a aplicação;
+
+CRIANDO ROTAS
+
+app.get('/',(request, response)=>{
+  response.send("Hello Rocketseat");
+});
