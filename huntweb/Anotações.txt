@@ -1,0 +1,3 @@
+variavel Estado
+
+Estado é sempre um objeto
